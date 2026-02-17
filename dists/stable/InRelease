@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: PullWeights
 Label: PullWeights
 Codename: stable
-Date: Tue, 17 Feb 2026 06:23:46 UTC
+Date: Tue, 17 Feb 2026 06:31:37 UTC
 Architectures: amd64 arm64
 Components: main
 Description: PullWeights CLI packages
@@ -31,17 +31,17 @@ SHA256:
  45f7ed04c2e9a4afa207f89bd918f30d6afe9880d6eda59e81eb5b74a6c8d9f9 113 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEn1Luv4M0tU0ZkGJjcdmnDdqs/DoFAmmUCXIACgkQcdmnDdqs
-/DpDLQ//fKDPQwiSRz8G3eucZIgUQ52AUsSXxq/sQuOQAL/jOOwVbSafXXs3pNPy
-2iiIrRFxuPk2YSoLp/6LXtmiaOlm571fvHLysPki+pqOYA86I60RJhmvFcBNZkOm
-p7q3JloZ5FANy492SyISQAKqBJF4igDrGrUyCaqYzoazbPSaOjoHEVDWIsQf/8eC
-bZKi7FjLxd8jokhMDpjaULHLUCA782VLvzVNTRsulRghJVJjRFKV5LGR2315Uxa2
-Q+rQov21s6N3DPwjbGLn3hXUSRHsmnSBlZCSTBtXlcYrlfjBXsU0TuX9vTOOkTEb
-Aqr/LjAzERar0kIpuYomSe/Arx7NTN4FiLXHQNkaGuJQ1LjsIWOGE4GJaYNT4uBv
-tzWHFULfqMEDo4zZ8C4O2pWyBPJJUYLAJ9+D9125bssR9cCfoJ1sqITf0m5etbVf
-3Gly6LZnr3MAHYU9jmYD0H4OVoNcTQR25zoCnfgOvpy2bQkXr1YvK9BXKK6lZImi
-eqIcLSHg2VCxcIrXMHZ1lm43xGsXiTiwlNZhDz/5nnt/PV3b06EGskVDaGca6C5l
-d3420nHrDvL4/3IixcEz0cYyNmtcAtaah3Z0Ow4Rjf1lG/aCu2dJtLmzAX7KOSVs
-lxOSujM28PChfcnnwAtvyRu/ogXDMxuOpSn7K1niSPs9QStewXU=
-=4CSW
+iQIzBAEBCgAdFiEEn1Luv4M0tU0ZkGJjcdmnDdqs/DoFAmmUC0kACgkQcdmnDdqs
+/DpqZRAAwutNV9sp77bUromLTL1rTU3wEnlCFsxa5stEYTbPBmHe/bWramQNj1Mz
+2QoJ21VWiTiK8Eh4VO6vlyg/xq9IslleXdy3dWEnDDah8xWF/BwcHpTPxuHMU48K
+mrGrrixK7n6g/Wg0qvVaMXd5FhhGAEbmNjv+c3SLRGzKvrB2Aea0Qfhz+qXrl0Jw
+sl6ZiBORADg2Tu/TDlFrbCHgGAzg+zI8isKhg5iu8zTTX5emUtploHqC0O2AzYV+
+mw5boA2a5n2Gf0FfnxBNbblY8yjSeD3yslSg+SojE3mcXhYt0hVcfgyZlX1/OEWO
+0Syx8EdAeoHY4zMoGAgnINBsrz8zG9ZVQu1us5uWUeMzDqfkZf1633J6Uje4cz4w
+CyV+fPUZduE4mKB30Ul+9qXepgAVyGbOeKp10jUv0R4dcSqUfokq0BTa0bSwOQm/
+9LcBfsJcXfe2e86IyUolW2zowdh0q1NrvLl+wle6MsEoXNGzOTF23dKQSApepmDm
+4lZD2NXnZNtxcpxpgPSBavZx38laJfwB+Wa4YZeOAaPhDmbYpxTynfKXtO8nqmWg
+JuBWXf4mvdpQZkB7n0BFGy1uhHXEfKgP70HmiUoIQncPGLUEXZPOKSnjpDAOTQoN
+YbwQeYlS789M2JNqJLBChUh+bMZIJwAsPq23qSa+XN1PC0C/sJc=
+=Qa4+
 -----END PGP SIGNATURE-----

@@ -1,7 +1,7 @@
 Origin: PullWeights
 Label: PullWeights
 Codename: stable
-Date: Tue, 17 Feb 2026 06:23:46 UTC
+Date: Tue, 17 Feb 2026 06:31:37 UTC
 Architectures: amd64 arm64
 Components: main
 Description: PullWeights CLI packages

@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: PullWeights
 Label: PullWeights
 Codename: stable
-Date: Tue, 17 Feb 2026 06:49:53 UTC
+Date: Tue, 17 Feb 2026 08:21:36 UTC
 Architectures: amd64 arm64
 Components: main
 Description: PullWeights CLI packages
 MD5Sum:
- 96c46a603c2b2105f99c7bb0986af154 598 main/binary-amd64/Packages
- df69a3a420f8604b88506328cd030080 425 main/binary-amd64/Packages.gz
+ 703e0d135b80b5f0f75c71f5fa208723 598 main/binary-amd64/Packages
+ 96ac765e3bd3f54b646916bb1dc3f9c0 426 main/binary-amd64/Packages.gz
  da1b0c09f3b7e9205c52b72d72240031 113 main/binary-amd64/Release
- 95b2d2bcf1c71d96d22897a676333157 598 main/binary-arm64/Packages
- 0ff7610f7b3279171113856f25a8fe09 428 main/binary-arm64/Packages.gz
+ e352fa197bfd7cf445c37429048087b5 598 main/binary-arm64/Packages
+ 812354d89893b73d946f6faca875917b 427 main/binary-arm64/Packages.gz
  47d67bb0c11c391390b904ef8373d7ba 113 main/binary-arm64/Release
 SHA1:
- 130fcf1c72d67a72fae3f3b2fa1c3360ebeef90a 598 main/binary-amd64/Packages
- 87a277693f9cadee8c4c07fa33c08b55938be86f 425 main/binary-amd64/Packages.gz
+ 4c7d8dec5fe0eae45f25f7e52e5e6e168351f346 598 main/binary-amd64/Packages
+ f399599db78f36cc9c0d728df56ca0f7a89c0da1 426 main/binary-amd64/Packages.gz
  551cfa553127747b8db48ba4d7997fcb439fa1f8 113 main/binary-amd64/Release
- e257031d630b1b0d0a89a861be37d68e18460865 598 main/binary-arm64/Packages
- 1c56e4064b58f859da53ae8b43a73cbdc96c0c9a 428 main/binary-arm64/Packages.gz
+ 6b846bd120b14ca0dd4a9a06a770738520c0af01 598 main/binary-arm64/Packages
+ 5cdcded45f1475ae49aebe4261827436f7213086 427 main/binary-arm64/Packages.gz
  03bdb7323ccd4c6c27caf1d77f2668ba9ce4328a 113 main/binary-arm64/Release
 SHA256:
- 5bb1c680878adef9f00eb63b440f1234a3b2220473e5d44e76dc753b8616d524 598 main/binary-amd64/Packages
- 7d99b1f16523879ffc33559f6c6acb4f246b8352f6e29bb6e8ae440c3cbfc3c0 425 main/binary-amd64/Packages.gz
+ dee3869727efd7ed83cbbf7824f6715a7e8afc58fa9c8e0125dd585f9995f070 598 main/binary-amd64/Packages
+ 9b34c3c2f57cdaa51083207a3bc5725241390b14f16bd1333bc5b880833279ae 426 main/binary-amd64/Packages.gz
  27821e0fa392fbb01b4b8cd8d43ddbd507b2dd93a135ce13bf7716a5e33cf4e6 113 main/binary-amd64/Release
- 19451c7c2d17311a299b4424ce69b448c15e5813ec63223493610b228b374569 598 main/binary-arm64/Packages
- 3f35d5fe6a61a3d19566882e8d55aea36da983e5c381abaf58e8864c8b96a776 428 main/binary-arm64/Packages.gz
+ de3efb05d21131daf4978b4447452b152daf09ca9ad884420ec4f2e40d3e5356 598 main/binary-arm64/Packages
+ 937c780b613fd02fe1d632b1e232803300289601103661926c8bb55dbbdb5549 427 main/binary-arm64/Packages.gz
  45f7ed04c2e9a4afa207f89bd918f30d6afe9880d6eda59e81eb5b74a6c8d9f9 113 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEn1Luv4M0tU0ZkGJjcdmnDdqs/DoFAmmUD5EACgkQcdmnDdqs
-/Dqz0hAA1pfPEETgpyi5AauAI6/ZCeMioZXhaedbWHp4UM2tD+5d0qhhZk9H9yUh
-LgiYwT8F8rf8MEgZzjop5q4rCXKmyZN3UWdz1gH4prmXLpBVjlPEWq8/lD37I3S1
-VPzyNua/QG6u8IKXSWn/Gc8ghoOYJQpXmuK1yo6vyE9SSzcwynUdgmqSP35OGdZf
-uy+PpafSeTJA04uUefyMHp4J8t8hqeWsL2CO+tzGy0Pp+Ohlbti8sNTvKsLvrxGZ
-DlfC+UmAZjilUUKV0rLHpL8XH294qY91XKWyBrBHGOEUWcn557WGgUS+P3CekGf3
-dT81vPAQ/M2uGVa2p0xzqTCKsxS1lNtRBfdyuhXfc45OBbQOd9HHLy3t9ZAS/8jy
-zFbAWm65uQX0K8LrcRt+2mGLjQJgbklhoCMw1kfTMjDaxdQLnzLTflrZIalysqfC
-F6NTWvwqeaXwdYIBXi40wNt+j7Te/aogpTPsTT9azAQd+cV3yalM1pC7KFVy2+qT
-2GT9exzsIH8Zn70kNEkFpCdxO34xnK9MnM0y6uZJFMrV6dEIong6ZgvC2wYgwkgG
-3/esnRuuWyDm7QJyZridHXovg00NbXHIHbvnLHmIVej6PmSev1mdla3TMehTgAnk
-GbuRXR+pVdcNERtb/9hS5OZh7ifr/Ihj3JfJF9Ikwx+V7XrwTTs=
-=OWa9
+iQIzBAEBCgAdFiEEn1Luv4M0tU0ZkGJjcdmnDdqs/DoFAmmUJRAACgkQcdmnDdqs
+/DrSgQ//TqQCkGVPGpCZORR7+9wZwCtIVPEj6CTeTHmxjyzvlIszezZV25lQ4c7A
+n4mvMzRbJE1zWr4zU/ZzR9S3xb3MbVPYb2CjrzYT6MIQ9r2hOpzEhc0Trh0PWSMs
+tNRL5FdyZNz1CmSj4XQjBUUy3E4tSkpfcgypMtS6HGQoTXGDF72tZX+cZIRZSMS/
+O+mIqMvxi5c4fDuQCrA06c7X7Nk8pTzrsTEz97jc62Ab5bOueN3Z+g4eGpwCnez9
+8e3RrcOrEQJ6iuymMsPEqG2Ub4GvsICq7Gsu5mkVQViEMZoQ2TmdLE6RpbP/04GF
+9QI0nW3PvcNNzX6+UAnagiQOOWz/OEyTwoorqPYIlOah0naki/hpTHlfrVp/RkAt
+7WorvfQZtOyMJ7iH/PVVo4/KNmjkx7lT9HVlbyL2/opQ0EktUvcqNErkmGNs2b+V
+RZIRYaFoKAni7OGjN8fszWNDQz2KrtzVB1Rb158F/0xxcDZP6wfErM+UVwWaacbK
+dNvpAvrhxdHJt+7UbD88ra5CugFPvgvydw9eN6RGrMY++cYPBf+RkCgyEICGBJ5a
+JjmMEeeUfOre/jmkaHpK54b31yNle42sjxqhVfG027y3weZPlE/4lsehBjOxw7wY
+qfrxqm29vE4pRa2pxkrk4fY4Le0QQp8pRrycHYUCJjI748gbVw4=
+=leah
 -----END PGP SIGNATURE-----

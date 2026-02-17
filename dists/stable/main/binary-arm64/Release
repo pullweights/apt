@@ -1,0 +1,5 @@
+Component: main
+Origin: PullWeights
+Label: PullWeights
+Architecture: arm64
+Description: PullWeights CLI packages

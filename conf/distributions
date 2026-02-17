@@ -1,0 +1,7 @@
+Origin: PullWeights
+Label: PullWeights
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: PullWeights CLI packages
+SignWith: 9F52EEBF8334B54D1990626371D9A70DDAACFC3A

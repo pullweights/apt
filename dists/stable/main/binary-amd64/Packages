@@ -8,10 +8,10 @@ Depends:
 Priority: optional
 Section: utils
 Filename: pool/main/p/pullweights/pullweights_0.6.0-1_amd64.deb
-Size: 1977560
-SHA256: 97a0f692db73632291a947f3e60da9e0be3e39a9bfd8b683a2fd0e840bdb9da1
-SHA1: f01b2420507958f40d21109cb99c1c04deeaa52b
-MD5sum: 2cf37dcbe088602623c627061d819871
+Size: 1980200
+SHA256: 6be6d74dac4c3493196041370f9dae6162d70c1b9ae0d44154abf8b4c8f9a79d
+SHA1: 84ddbf441cf4ada2c773f82cc58b9bb48f8cd418
+MD5sum: 1c285c3f8b87afaa4437c426763c6622
 Description: The CLI for PullWeights — the decentralized AI model registry
  Push, pull, tag, and version AI models from the command line.
 

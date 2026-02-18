@@ -3,15 +3,15 @@ Version: 0.6.0-1
 Architecture: arm64
 Homepage: https://github.com/pullweights/cli
 Maintainer: PullWeights <support@pullweights.com>
-Installed-Size: 5462
+Installed-Size: 5474
 Depends: 
 Priority: optional
 Section: utils
 Filename: pool/main/p/pullweights/pullweights_0.6.0-1_arm64.deb
-Size: 1757576
-SHA256: 0398395ef7087a72019e14045a1a01a56e18226066c2048439c3ac9d9f4702a7
-SHA1: 8bf749311787068a913085a489e8dabe4b7189e1
-MD5sum: aaad66392c17ef5c0fa2d8afdd8b3ca9
+Size: 1757848
+SHA256: d48ff19a7fe57b6d3bf620ee4161fe9507c54d0d7d4aa793065fc1675280757d
+SHA1: e4f6b00d1fb7c0de2e6a21c96c18e64918e54bb2
+MD5sum: fa3171c8f4c1aa11579a6457771aa990
 Description: The CLI for PullWeights — the decentralized AI model registry
  Push, pull, tag, and version AI models from the command line.
 
